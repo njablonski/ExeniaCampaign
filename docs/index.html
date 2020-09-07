@@ -1,0 +1,20 @@
+<head>
+
+  <title>The Exenia Campaign</title>
+  
+</head>
+
+<body>
+
+  <iframe id="video" src="//www.youtube.com/embed/5iiPC-VGFLU" frameborder="0" allowfullscreen></iframe>
+  
+  $(function(){
+    $('#video').css({ width: $(window).innerWidth() + 'px', height: $(window).innerHeight() + 'px' });
+
+    // If you want to keep full screen on window resize
+    $(window).resize(function(){
+      $('#video').css({ width: $(window).innerWidth() + 'px', height: $(window).innerHeight() + 'px' });
+    });
+  });
+  
+</body>
