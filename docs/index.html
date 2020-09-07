@@ -1,20 +1,21 @@
-<head>
+<style type="text/css">
+  body {
+     margin: 0;
+     overflow: hidden;
+  }
+  #iframe1 {
+     position:absolute;
+     left: 0px;
+     width: 100%;
+     top: 0px;
+     height: 100%;
+  }
+</style>
 
+<head>
   <title>The Exenia Campaign</title>
-  
 </head>
 
 <body>
-
-  <iframe id="video" src="//www.youtube.com/embed/5iiPC-VGFLU" frameborder="0" allowfullscreen></iframe>
-  
-  $(function(){
-    $('#video').css({ width: $(window).innerWidth() + 'px', height: $(window).innerHeight() + 'px' });
-
-    // If you want to keep full screen on window resize
-    $(window).resize(function(){
-      $('#video').css({ width: $(window).innerWidth() + 'px', height: $(window).innerHeight() + 'px' });
-    });
-  });
-  
+  <iframe id="iframe1" name="iframe1" frameborder="0" src="https://drive.google.com/file/d/1UlbYRwIwyXb_Zm-QdrAk60Vn7NRQxAV-/preview"></iframe>  
 </body>
