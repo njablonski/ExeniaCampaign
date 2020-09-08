@@ -16,7 +16,7 @@ In the Exenia Campaign, each players controls a carrier starship with a large co
 
 Strategic turns are tracked on a hex map, which can be managed on [HexTML](https://hextml.playest.net/) using the [provided files](https://raw.githubusercontent.com/njablonski/ExeniaCampaign/master/assets/starting_map.html), or tracked with pen and paper or other software.
 
-## Setup
+## The map
 
 The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9. See the example map below, which shows the state of the map at the beginning of the campaign.
 
