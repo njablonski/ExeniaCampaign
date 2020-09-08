@@ -179,29 +179,29 @@ Throughout the game, players will need to track the status of their carriers and
 
 <table class="tg">
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">Name</span></th>
-    <th class="tg-c3ow" colspan="2">ISD Gauntlet</th>
+    <td class="tg-0pky"><span style="font-weight:bold"><b>Name</b></span></td>
+    <td class="tg-c3ow" colspan="2">ISD Gauntlet</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Location</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold"><b>Location</b></span></td>
     <td class="tg-c3ow" colspan="2">Hex 35</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Fuel</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold"><b>Fuel</b></span></td>
     <td class="tg-c3ow" colspan="2">1</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Supply</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold"><b>Suppl</b>y</span></td>
     <td class="tg-c3ow" colspan="2">1</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><span style="font-weight:bold">Readiness</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold"><b>Readiness</b></span></td>
     <td class="tg-baqh" colspan="2">Ready</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="3"><span style="font-weight:bold">Fighter Wings</span></td>
-    <td class="tg-0lax"><span style="font-weight:bold">Name</span></td>
-    <td class="tg-0lax"><span style="font-weight:bold">Readiness</span></td>
+    <td class="tg-0lax" rowspan="3"><span style="font-weight:bold"><b>Fighter Wings</b></span></td>
+    <td class="tg-0lax"><span style="font-weight:bold"><b>Name</b></span></td>
+    <td class="tg-0lax"><span style="font-weight:bold"><b>Readiness</b></span></td>
   </tr>
   <tr>
     <td class="tg-0lax">Beta Wing</td>
