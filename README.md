@@ -5,11 +5,16 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 * [Overview](#overview)
 * [Map](#map)
 * [Icons](#icons)
+* [Key Concepts](#key-concepts)
+   * [Fuel](#fuel)
+   * [Supply](#supply)
+   * [Readiness](#readiness)
 * [Setup](#setup)
    * [Rebel Carriers](#rebel-carriers)
    * [Imperial Carriers](#imperial-carriers)
    * [Rebel Starfighter Wings](#rebel-starfighter-wings)
    * [Imperial Starfighter Wings](#imperial-starfighter-wings)
+* [Carrier Status Sheet](#carrier-status-sheet)
 * [Exenia Battle Format](#exenia-battle-format)
 
 ***
@@ -56,7 +61,9 @@ The following terms and concepts are important to understand when playing the Ex
 
 ### Fuel
 
-The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control refineries during the _Collection Phase_ of a strategic turn. Fuel can also be spent during the _Planning Phase_ of a strategic turn to increase your carrier's hyperdrive speed during the _Movement Phase_.
+The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control refineries during the _Collection Phase_ of a strategic turn.
+
+Fuel can also be spent during the _Planning Phase_ of a strategic turn to increase your carrier's hyperdrive speed during the following _Movement Phase_.
 
 ### Supply
 
