@@ -177,6 +177,42 @@ Once carriers have been chosen, each team should work together to assign starfig
 
 Throughout the game, players will need to track the status of their carriers and starfighter wings. This status will change from one strategic turn to the next. To track the status of a carrier, you need to record its location, readiness, fuel, supply, and the readiness of its starfighter wings. See the example carrier status sheet below.
 
+<table class="tg">
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Name</span></th>
+    <th class="tg-c3ow" colspan="2">ISD Gauntlet</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Location</span></td>
+    <td class="tg-c3ow" colspan="2">Hex 35</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Fuel</span></td>
+    <td class="tg-c3ow" colspan="2">1</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Supply</span></td>
+    <td class="tg-c3ow" colspan="2">1</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><span style="font-weight:bold">Readiness</span></td>
+    <td class="tg-baqh" colspan="2">Ready</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" rowspan="3"><span style="font-weight:bold">Fighter Wings</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold">Name</span></td>
+    <td class="tg-0lax"><span style="font-weight:bold">Readiness</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Beta Wing</td>
+    <td class="tg-0lax">Ready</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Gamma Wing</td>
+    <td class="tg-0lax">Ready</td>
+  </tr>
+</table>
+
 ***
 
 <br/>
