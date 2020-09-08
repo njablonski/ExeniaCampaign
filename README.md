@@ -79,7 +79,7 @@ Lorem ipsum
 
 ## Setup
 
-During setup, each player chooses which carrier they will control and customizes their starfighter squadrons. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining carriers at each roll to numbers on the next dice.
+During setup, each player chooses which carrier they will control and customizes their starfighter wings. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining carriers at each roll to numbers on the next dice.
 
 ### Rebel Carriers
 
