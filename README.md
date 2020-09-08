@@ -20,7 +20,7 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 
 [Watch the opening crawl!](https://njablonski.github.io/ExeniaCampaign/)
 
-In the Exenia Campaign, each players controls a carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their carriers, sortie their starfighters, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough fuel from Black Sun refineries to safely return to known space.
+In the Exenia Campaign, each player controls a carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their carriers, sortie their starfighters, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough fuel from Black Sun refineries to safely return to known space.
 
 The campaign features two factions, the Rebel Alliance and the Galactic Empire, and players will each be part of a two-person team representing one of the factions.
 
@@ -50,6 +50,26 @@ See the example map below, which shows the state of the map at the beginning of 
 
 <br/>
 
+## Key Concepts
+
+The following terms and concepts are important to understand when playing the Exenia Campaign.
+
+### Fuel
+
+The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control refineries during the _Collection Phase_ of a strategic turn. Fuel can also be spent during the _Planning Phase_ of a strategic turn to increase your carrier's hyperdrive speed during the _Movement Phase_.
+
+### Supply
+
+Lorem ipsum
+
+### Readiness
+
+Lorem ipsum
+
+***
+
+<br/>
+
 ## Setup
 
 During setup, each player chooses which carrier they will control and customizes their starfighter squadrons. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining carriers at each roll to numbers on the next dice.
@@ -66,7 +86,7 @@ During setup, each player chooses which carrier they will control and customizes
 
 The players who control the _**Paradise**_ and the _**Pursuit**_ will form the Rebel team, and the players who control the _**Gauntlet**_ and the _**Nemesis**_ will form the Imperial team.
 
-Once carriers have been chosen, each team should work together to assign starfighter wings to their carriers. There are four Rebel starfighter wings and four Imperial starfighter wings. Each carrier can host two starfighter wings, and the different wings have different available starfighter types.
+Once carriers have been chosen, each team should work together to assign starfighter wings to their carriers. There are four Rebel starfighter wings and four Imperial starfighter wings. Each carrier can host two starfighter wings, and the different wings have different available starfighter types. Once each team has assigned fighter wings to their carriers, you're ready to record your initial status and begin the first strategic turn.
 
 ### Rebel Starfighter Wings
 
@@ -141,6 +161,14 @@ Once carriers have been chosen, each team should work together to assign starfig
   </tr>
 </tbody>
 </table>
+
+***
+
+<br/>
+
+## Carrier Status Sheet
+
+Throughout the game, players will need to track the status of their carriers and fighter wings. This status will change from one strategic turn to the next.
 
 ***
 
