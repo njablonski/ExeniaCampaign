@@ -22,7 +22,7 @@ See the example map below, which shows the state of the map at the beginning of 
 
 ## Icons
 
-![](https://github.com/njablonski/ExeniaCampaign/blob/master/assets/icon-summary.png?raw=true)
+![](https://github.com/njablonski/ExeniaCampaign/blob/master/assets/icon-summary-2.png?raw=true)
 
 ## Setup
 
