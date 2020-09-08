@@ -26,33 +26,51 @@ See the example map below, which shows the state of the map at the beginning of 
 
 The following icons represent important campaign pieces:
 
+<div class="blog-post">
+<div></div>
+
 <table>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/cruiser-on-white-200.jpg" width=100></td>
+    <td>Rebel Star Cruiser</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/xwing-on-white-200.jpg" width=100></td>
+    <td>Rebel Fighter Squadron</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/isd-on-white-200.jpg" width=100></td>
+    <td>Imperial Star Destroyer</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/tie-on-white-200.jpg" width=100></td>
+    <td>Imperial Fighter Squadron</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/main-on-white-200.jpg" width=100></td>
+    <td>Main Refinery</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/secondary-on-white-200.jpg" width=100></td>
+    <td>Secondary Refinery</td>
   </tr>
   <tr>
-    <td>image</td>
-    <td>description</td>
+    <td><img src="./assets/fab-on-white-200.jpg" width=100></td>
+    <td>Fabricator Outpost</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/z95-on-white-200.jpg" width=100></td>
+    <td>Black Sun Fighter Squadron</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/asteroid-on-white-200.jpg" width=100></td>
+    <td>Asteroid Field</td>
+  </tr>
+  <tr>
+    <td><img src="./assets/nebula-white-200.jpg" width=100></td>
+    <td>Energized Gas Cloud</td>
   </tr>
 </table>
+
+</div>
+
