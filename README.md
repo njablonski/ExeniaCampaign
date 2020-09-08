@@ -28,10 +28,13 @@ See the example map below, which shows the state of the map at the beginning of 
 
 During setup, each player chooses which carrier they will control and customizes their starfighter squadrons. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining carriers at each roll to numbers on the next dice.
 
-The four available carriers re:
+### Rebel Carriers
 
 - _**Paradise**_ ([Rebel MC80 Star Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
 - _**Pursuit**_ ([Rebel MC80 Star Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
+
+### Imperial Carriers
+
 - _**ISD Gauntlet**_ ([Imperial Star Destroyer](https://starwars.fandom.com/wiki/Imperial-class_Star_Destroyer))
 - _**ISD Nemesis**_ ([Imperial Star Destroyer](https://starwars.fandom.com/wiki/Imperial-class_Star_Destroyer))
 
