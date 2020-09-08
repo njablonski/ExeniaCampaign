@@ -46,7 +46,7 @@ The Exenia campaign resolves battles through games of [Star Wars: X-Wing Second 
 The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fresh, newbie-friendly way to experience the Star Wars universe through the X-Wing miniatures game. To this end, the Exenia Campaign uses a special restricted format for [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). The rules of this format are as follows:
 
 - Your list may only include ship types available to your starfighter wings involved in the strategic campaign battle that the game represents.
-- The points limit for your list is determined by the _Readiness_ of your involved starfighter wings. The limit is"
+- The points limit for your list is determined by the _Readiness_ of your involved starfighter wings. The limit is:
   - 175 points for a **Reinforced** wing.
   - 150 points for a **Ready** wing.
   - 125 points for a **Weakened** wing.
