@@ -39,6 +39,41 @@ The players who control the _**Paradise**_ and the _**Pursuit**_ will form the R
 
 Once carriers have been chosen, each team should work together to assign starfighter wings to their carriers. There are four Rebel starfighter wings and four Imperial starfighter wings. Each carrier can host two starfighter wings, and the different wings have different available starfighter types.
 
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-73oq">Name</th>
+    <th class="tg-73oq" colspan="3">Starfighter Types</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Danger Wing</td>
+    <td class="tg-0pky">T-65 X-Wing</td>
+    <td class="tg-0pky">BTL-A4 Y-Wing</td>
+    <td class="tg-0pky">Z-95 Headhunter</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Enigma Wing</td>
+    <td class="tg-0pky">T-65 X-Wing</td>
+    <td class="tg-0pky">A/SF-01 B-Wing</td>
+    <td class="tg-0pky">RZ-1 A-Wing</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Outlaw Wing</td>
+    <td class="tg-0pky">T-65 X-Wing</td>
+    <td class="tg-0pky">RZ-1 A-Wing</td>
+    <td class="tg-0pky">Z-95 Headhunter</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Dynamo Wing</td>
+    <td class="tg-0lax">T-65 X-Wing</td>
+    <td class="tg-0lax">BTL-A4 Y-Wing</td>
+    <td class="tg-0lax">A/SF-01 B-Wing</td>
+  </tr>
+</tbody>
+</table>
+
 ## Exenia Battle Format
 
 The Exenia campaign resolves battles through games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). Each game you play represents a battle that has been triggered by events in the current strategic turn, and the outcome of the game will determine the outcome of the battle.
