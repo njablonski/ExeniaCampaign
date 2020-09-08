@@ -26,4 +26,33 @@ See the example map below, which shows the state of the map at the beginning of 
 
 The following icons represent important campaign pieces:
 
-
+<table>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+  <tr>
+    <td>image</td>
+    <td>description</td>
+  </tr>
+</table>
