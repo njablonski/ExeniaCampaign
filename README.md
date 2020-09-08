@@ -2,6 +2,16 @@
 
 The Exenia Campaign is strategic map campaign system for four players in [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/).
 
+* [Overview](#overview)
+* [Map](#map)
+* [Icons](#icons)
+* [Setup](#setup)
+   * [Rebel Carriers](#rebel-carriers)
+   * [Imperial Carriers](#imperial-carriers)
+   * [Rebel Starfighter Wings](#rebel-starfighter-wings)
+   * [Imperial Starfighter Wings](#imperial-starfighter-wings)
+* [Exenia Battle Format](#exenia-battle-format)
+
 ***
 
 ## Overview
