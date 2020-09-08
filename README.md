@@ -30,8 +30,8 @@ During setup, each player chooses which carrier they will control and customizes
 
 The four available carriers re:
 
-1. Paradise ([Rebel MC80 Command Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
-2. Pursuit ([Rebel MC80 Command Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
+1. Paradise ([Rebel MC80 Star Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
+2. Pursuit ([Rebel MC80 Star Cruiser](https://starwars.fandom.com/wiki/MC80_Home_One_type_Star_Cruiser))
 3. ISD Gauntlet ([Imperial Star Destroyer](https://starwars.fandom.com/wiki/Imperial-class_Star_Destroyer))
 4. ISD Nemesis ([Imperial Star Destroyer](https://starwars.fandom.com/wiki/Imperial-class_Star_Destroyer))
 
