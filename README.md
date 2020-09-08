@@ -101,8 +101,8 @@ Once carriers have been chosen, each team should work together to assign starfig
   <tr>
     <td class="tg-0pky"><b><i>Gamma Wing</b></i></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/LN Fighter</span></td>
-    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/IN Interceptor</span></td>
     <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/PH Phantom</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/IN Interceptor</span></td>
   </tr>
   <tr>
     <td class="tg-0lax"><b><i>Delta Wing</b></i></td>
