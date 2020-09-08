@@ -191,7 +191,7 @@ Throughout the game, players will need to track the status of their carriers and
     <td class="tg-c3ow" colspan="2">1</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><span style="font-weight:bold"><b>Suppl</b>y</span></td>
+    <td class="tg-0pky"><span style="font-weight:bold"><b>Supply</b></span></td>
     <td class="tg-c3ow" colspan="2">1</td>
   </tr>
   <tr>
