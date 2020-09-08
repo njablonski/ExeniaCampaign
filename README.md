@@ -204,12 +204,8 @@ Throughout the game, players will need to track the status of their carriers and
     <td class="tg-0lax"><span style="font-weight:bold"><b>Readiness</b></span></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Beta Wing</td>
-    <td class="tg-0lax">Ready</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Gamma Wing</td>
-    <td class="tg-0lax">Ready</td>
+    <td class="tg-0lax">Beta Wing<br/><br/>Gamma Wing</td>
+    <td class="tg-0lax">Ready<br/><br/>Ready</td>
   </tr>
 </table>
 
