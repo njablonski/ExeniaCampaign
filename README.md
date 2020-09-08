@@ -67,7 +67,7 @@ Fuel can also be spent during the _Planning Phase_ of a strategic turn to increa
 
 ### Supply
 
-Lorem ipsum
+Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. In the 
 
 ### Readiness
 
@@ -175,7 +175,7 @@ Once carriers have been chosen, each team should work together to assign starfig
 
 ## Carrier Status Sheet
 
-Throughout the game, players will need to track the status of their carriers and fighter wings. This status will change from one strategic turn to the next.
+Throughout the game, players will need to track the status of their carriers and starfighter wings. This status will change from one strategic turn to the next. To track the status of a carrier, you need to record its location, readiness, fuel, supply, and the readiness of its starfighter wings. See the example carrier status sheet below.
 
 ***
 
@@ -194,5 +194,9 @@ The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fres
   - 125 points for a **Weakened** wing.
 - When two allied wings participate in the same battle, they may each bring a list of up to 100 points, regardless of their _Readiness_.
 - You may not take any unique named pilots or upgrades (cards with a • next to their name).
+- Taking upgrades may require spending strategic campaign resources.
+  - You can always take Talent upgrades.
+  - To take [Crew](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Crew_Upgrades), Gunner, [Astromech](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Astromech_Upgrades), or Modification upgrades requires than you spend 1 supply on _Personnel_ for the battle.
+  - To take Missile, Torpedo, [Device](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Device_Upgrades), or Turret upgrades requires that you spend 1 supply on _Ordnance_ for the battle.
 
 These rules enhance the verisimilitude of the story as it unfolds in the strategic game, disincentivizes netdecking behavior, and levels the playing field for players who may not be familiar with the metagame of popular formats.
