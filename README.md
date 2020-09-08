@@ -2,6 +2,8 @@
 
 The Exenia Campaign is strategic map campaign system for four players in [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/).
 
+***
+
 ## Overview
 
 [Watch the opening crawl!](https://njablonski.github.io/ExeniaCampaign/)
@@ -12,6 +14,8 @@ The campaign features two factions, the Rebel Alliance and the Galactic Empire, 
 
 Strategic turns are tracked on a hex map, which can be managed on [HexTML](https://hextml.playest.net/) using the [provided files](https://raw.githubusercontent.com/njablonski/ExeniaCampaign/master/assets/starting_map.html), or tracked with pen and paper or other software.
 
+***
+
 ## Map
 
 The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9.
@@ -20,9 +24,13 @@ See the example map below, which shows the state of the map at the beginning of 
 
 ![](./intro/initial_conditions.png)
 
+***
+
 ## Icons
 
 ![](https://github.com/njablonski/ExeniaCampaign/blob/master/assets/icon-summary-3.png?raw=true)
+
+***
 
 ## Setup
 
@@ -115,6 +123,8 @@ Once carriers have been chosen, each team should work together to assign starfig
   </tr>
 </tbody>
 </table>
+
+***
 
 ## Exenia Battle Format
 
