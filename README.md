@@ -39,6 +39,8 @@ The players who control the _**Paradise**_ and the _**Pursuit**_ will form the R
 
 Once carriers have been chosen, each team should work together to assign starfighter wings to their carriers. There are four Rebel starfighter wings and four Imperial starfighter wings. Each carrier can host two starfighter wings, and the different wings have different available starfighter types.
 
+### Rebel Starfighter Wings
+
 <table class="tg">
 <thead>
   <tr>
@@ -48,28 +50,65 @@ Once carriers have been chosen, each team should work together to assign starfig
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Danger Wing</td>
+    <td class="tg-0pky"><b><i>Danger Wing</b></i></td>
     <td class="tg-0pky">T-65 X-Wing</td>
     <td class="tg-0pky">BTL-A4 Y-Wing</td>
     <td class="tg-0pky">Z-95 Headhunter</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Enigma Wing</td>
+    <td class="tg-0pky"><b><i>Enigma Wing</td>
     <td class="tg-0pky">T-65 X-Wing</td>
     <td class="tg-0pky">A/SF-01 B-Wing</td>
     <td class="tg-0pky">RZ-1 A-Wing</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Outlaw Wing</td>
+    <td class="tg-0pky"><b><i>Outlaw Wing</b></i></td>
     <td class="tg-0pky">T-65 X-Wing</td>
     <td class="tg-0pky">RZ-1 A-Wing</td>
     <td class="tg-0pky">Z-95 Headhunter</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Dynamo Wing</td>
+    <td class="tg-0lax"><b><i>Dynamo Wing</b></i></td>
     <td class="tg-0lax">T-65 X-Wing</td>
     <td class="tg-0lax">BTL-A4 Y-Wing</td>
     <td class="tg-0lax">A/SF-01 B-Wing</td>
+  </tr>
+</tbody>
+</table>
+
+### Imperial Starfighter Wings
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-73oq">Name</th>
+    <th class="tg-73oq" colspan="3">Starfighter Types</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky"><b><i>Alpha Wing</b></i></td>
+    <td class="tg-0pky">TIE/LN Fighter</td>
+    <td class="tg-0pky">TIE/X1 Advanced</td>
+    <td class="tg-0pky">TIE/IN Interceptor</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b><i>Beta Wing</b></i></td>
+    <td class="tg-0pky">TIE/LN Fighter</td>
+    <td class="tg-0pky">TIE/SA Bomber</td>
+    <td class="tg-0pky">TIE/PH Phantom</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><b><i>Gamma Wing</b></i></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/LN Fighter</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/IN Interceptor</span></td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">TIE/PH Phantom</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b><i>Delta Wing</b></i></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">TIE/LN Fighter</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">TIE/X1 Advanced</span></td>
+    <td class="tg-0lax"><span style="font-weight:400;font-style:normal">TIE/SA Bomber</span></td>
   </tr>
 </tbody>
 </table>
