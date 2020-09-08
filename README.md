@@ -18,6 +18,12 @@ Strategic turns are tracked on a hex map, which can be managed on [HexTML](https
 
 ## The map
 
-The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9. See the example map below, which shows the state of the map at the beginning of the campaign.
+The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9.
+
+See the example map below, which shows the state of the map at the beginning of the campaign.
 
 ![](./intro/initial_conditions.png)
+
+The following icons represent important campaign pieces:
+
+
