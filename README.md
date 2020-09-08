@@ -14,6 +14,8 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 
 ***
 
+<br/>
+
 ## Overview
 
 [Watch the opening crawl!](https://njablonski.github.io/ExeniaCampaign/)
@@ -26,6 +28,8 @@ Strategic turns are tracked on a hex map, which can be managed on [HexTML](https
 
 ***
 
+<br/>
+
 ## Map
 
 The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9.
@@ -36,11 +40,15 @@ See the example map below, which shows the state of the map at the beginning of 
 
 ***
 
+<br/>
+
 ## Icons
 
 ![](https://github.com/njablonski/ExeniaCampaign/blob/master/assets/icon-summary-3.png?raw=true)
 
 ***
+
+<br/>
 
 ## Setup
 
@@ -135,6 +143,8 @@ Once carriers have been chosen, each team should work together to assign starfig
 </table>
 
 ***
+
+<br/>
 
 ## Exenia Battle Format
 
