@@ -71,7 +71,7 @@ Supply represents various consumable resources. The forces in the Exenia Campaig
 
 In the _Battle Resolution_ phase of a strategic turn, players can spend supply on _Ordnance_ and _Personnel_ to allow their starfighters to take additional upgrades.
 
-In the _
+In the _Strategic Preparations_ phase, Carriers that were not involved in battles and Starfighter Wings that did not Sortie can spend supply on _Maintenance_ to increase their _Readiness_.
 
 ### Readiness
 
