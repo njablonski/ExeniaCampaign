@@ -25,7 +25,7 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 
 [Watch the opening crawl!](https://njablonski.github.io/ExeniaCampaign/)
 
-In the Exenia Campaign, each player controls a carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their carriers, sortie their starfighters, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough fuel from Black Sun refineries to safely return to known space.
+In the Exenia Campaign, each player controls a Carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their Carriers, sortie their Starfighter Wings, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough fuel from Black Sun refineries to safely return to known space.
 
 The campaign features two factions, the Rebel Alliance and the Galactic Empire, and players will each be part of a two-person team representing one of the factions.
 
@@ -61,13 +61,13 @@ The following terms and concepts are important to understand when playing the Ex
 
 ### Fuel
 
-The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun Refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control Refineries during the _Resource Collection_ phase of a strategic turn.
+The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun Refineries to return both of your team's carriers to the known galaxy. Fuel is collected by Carriers or Starfighter Wings that control Refineries during the _Resource Collection_ phase of a strategic turn.
 
-Fuel can be spent during the _Carrier Movement_ phase of a strategic turn to increase your carrier's hyperdrive speed, allowing to to move an additional hex.
+Fuel can be spent during the _Carrier Movement_ phase of a strategic turn to increase your carrier's hyperdrive speed, which allows it to move an additional hex.
 
 ### Supply
 
-Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. Additional supplies can be gathered by carriers or fighter wings that control Fabricator Outposts during the _Resource Collection_ phase of a strategic turn.
+Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. Additional supplies can be gathered by Carriers or Starfighter Wings that control Fabricator Outposts during the _Resource Collection_ phase of a strategic turn.
 
 In the _Battle Resolution_ phase of a strategic turn, players can spend supply on _Ordnance_ and _Personnel_ to allow their starfighters to take additional upgrades.
 
@@ -75,7 +75,7 @@ In the _Strategic Preparations_ phase, Carriers that were not involved in battle
 
 ### Readiness
 
-Readiness represents the condition of equipment and personnel needed to operate a carrier or fighter wing. There are four levels of readiness, each with its own affect on a Carrier or Starfighter Wing:
+Readiness represents the condition of equipment and personnel needed to operate a Carrier or Starfighter Wing. There are four levels of readiness, each with its own affect on a Carrier or Starfighter Wing:
 
 <table class="tg">
 <thead>
@@ -105,7 +105,9 @@ Readiness represents the condition of equipment and personnel needed to operate 
 </tbody>
 </table>
 
-When the Galactic Empire or Rebel Alliance lose a battle, all of that team's involved Carriers and Starfighter Wings go down one level of _Readiness_. If a Starfighter Wing does not sortie, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level in the _Strategic Preparations_ phase. Similarly, in the _Strategic Preparations_ phase, if a Carrier was not involved in a battle during the current strategic turn, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level.
+When the Galactic Empire or Rebel Alliance lose a battle, all of that team's involved Carriers and Starfighter Wings go down one level of _Readiness_.
+
+If a Starfighter Wing does not sortie, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level in the _Strategic Preparations_ phase. Similarly, in the _Strategic Preparations_ phase, if a Carrier was not involved in a battle during the current strategic turn, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level.
 
 
 ***
@@ -114,7 +116,7 @@ When the Galactic Empire or Rebel Alliance lose a battle, all of that team's inv
 
 ## Setup
 
-During setup, each player chooses which carrier they will control and customizes their starfighter wings. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining carriers at each roll to numbers on the next dice.
+During setup, each player chooses which Carrier and Starfighter Wings he will control. You can randomize which player controls which carrier by having all players roll a d100, then in order of results from highest to lowest roll a d4, then a d3, then a d2, assigning remaining Carriers at each roll to numbers on the next dice.
 
 ### Rebel Carriers
 
@@ -128,7 +130,7 @@ During setup, each player chooses which carrier they will control and customizes
 
 The players who control the _**Paradise**_ and the _**Pursuit**_ will form the Rebel team, and the players who control the _**Gauntlet**_ and the _**Nemesis**_ will form the Imperial team.
 
-Once carriers have been chosen, each team should work together to assign starfighter wings to their carriers. There are four Rebel starfighter wings and four Imperial starfighter wings. Each carrier can host two starfighter wings, and the different wings have different available starfighter types. Once each team has assigned fighter wings to their carriers, you're ready to record your initial status and begin the first strategic turn.
+Once Carriers have been chosen, each team should work together to assign Starfighter Wings to their Carriers. There are four Rebel Starfighter Wings and four Imperial Starfighter Wings. Each Carrier can host two Starfighter Wings. Once each team has assigned Starfighter Wings to their Carriers, you're ready to record your initial status and begin the first strategic turn.
 
 ### Rebel Starfighter Wings
 
@@ -210,7 +212,7 @@ Once carriers have been chosen, each team should work together to assign starfig
 
 ## Carrier Status Sheet
 
-Throughout the game, players will need to track the status of their carriers and starfighter wings. This status will change from one strategic turn to the next. To track the status of a carrier, you need to record its location, readiness, fuel, supply, and the readiness of its starfighter wings. See the example carrier status sheet below.
+Throughout the game, players will need to track the status of their Carriers and Starfighter Wings. This status will change from one strategic turn to the next. To track the status of a Carrier, you need to record its location, readiness, fuel, supply, and the readiness of its Starfighter Wings. See the example Carrier status sheet below.
 
 <table class="tg">
   <tr>
@@ -254,12 +256,12 @@ The Exenia campaign resolves battles through games of [Star Wars: X-Wing Second 
 
 The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fresh, newbie-friendly way to experience the Star Wars universe through the X-Wing miniatures game. To this end, the Exenia Campaign uses a special restricted format for [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). The rules of this format are as follows:
 
-- Your list may only include ship types available to your starfighter wings involved in the strategic campaign battle that the game represents.
-- The points limit for your list is determined by the _Readiness_ of your involved starfighter wings. The limit is:
+- Your list may only include ship types available to your Starfighter Wings involved in the strategic campaign battle that the game represents.
+- The points limit for your list is determined by the _Readiness_ of your Starfighter Wing. The limit is:
   - 170 points for a **Reinforced** wing.
   - 150 points for a **Ready** wing.
   - 130 points for a **Weakened** wing.
-- When two allied wings participate in the same battle, they may each bring a list of up to half the points limit determined by their _Readiness_.
+- When two allied wings participate in the same battle, they may each bring a list of up to half the points limit determined by their _Readiness_, plus 10.
 - You may not take any unique named pilots or upgrades (cards with a • next to their name).
 - Taking upgrades may require spending strategic campaign resources.
   - You can always take Talent upgrades.
