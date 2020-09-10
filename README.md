@@ -61,17 +61,52 @@ The following terms and concepts are important to understand when playing the Ex
 
 ### Fuel
 
-The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control refineries during the _Collection Phase_ of a strategic turn.
+The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun Refineries to return both of your team's carriers to the known galaxy. Fuel is collected by carriers or fighter wings that control Refineries during the _Resource Collection_ phase of a strategic turn.
 
-Fuel can also be spent during the _Planning Phase_ of a strategic turn to increase your carrier's hyperdrive speed during the following _Movement Phase_.
+Fuel can be spent during the _Carrier Movement_ phase of a strategic turn to increase your carrier's hyperdrive speed, allowing to to move an additional hex.
 
 ### Supply
 
-Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. In the 
+Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. Additional supplies can be gathered by carriers or fighter wings that control Fabricator Outposts during the _Resource Collection_ phase of a strategic turn.
+
+In the _Battle Resolution_ phase of a strategic turn, players can spend supply on _Ordnance_ and _Personnel_ to allow their starfighters to take additional upgrades.
+
+In the _
 
 ### Readiness
 
-Lorem ipsum
+Readiness represents the condition of equipment and personnel needed to operate a carrier or fighter wing. There are four levels of readiness, each with its own affect on a Carrier or Starfighter Wing:
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"><b>3. Reinforced</b></th>
+    <th class="tg-0lax"><b>2. Ready</b></th>
+    <th class="tg-0lax"><b>1. Weakened</b></th>
+    <th class="tg-0lax"><b>0. Grounded</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><b>Effect on a Carrier</td>
+    <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
+    <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
+    <td class="tg-0lax">May sortie 1 Starfighter Wing</b></td>
+    <td class="tg-0lax">Carrier is destroyed</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>Effect on a Starfighter Wing</b></td>
+    <td class="tg-0lax">May field up to 170 points in battle</b></td>
+    <td class="tg-0lax">May field up to 150 points in battle</b></td>
+    <td class="tg-0lax">May field up to 130 points in battle</b></td>
+    <td class="tg-0lax">Cannot sortie</b></td>
+  </tr>
+</tbody>
+</table>
+
+When the Galactic Empire or Rebel Alliance lose a battle, all of that team's involved Carriers and Starfighter Wings go down one level of _Readiness_. If a Starfighter Wing does not sortie, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level in the _Strategic Preparations_ phase. Similarly, in the _Strategic Preparations_ phase, if a Carrier was not involved in a battle during the current strategic turn, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level.
+
 
 ***
 
@@ -221,10 +256,10 @@ The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fres
 
 - Your list may only include ship types available to your starfighter wings involved in the strategic campaign battle that the game represents.
 - The points limit for your list is determined by the _Readiness_ of your involved starfighter wings. The limit is:
-  - 175 points for a **Reinforced** wing.
+  - 170 points for a **Reinforced** wing.
   - 150 points for a **Ready** wing.
-  - 125 points for a **Weakened** wing.
-- When two allied wings participate in the same battle, they may each bring a list of up to 100 points, regardless of their _Readiness_.
+  - 130 points for a **Weakened** wing.
+- When two allied wings participate in the same battle, they may each bring a list of up to half the points limit determined by their _Readiness_.
 - You may not take any unique named pilots or upgrades (cards with a • next to their name).
 - Taking upgrades may require spending strategic campaign resources.
   - You can always take Talent upgrades.
