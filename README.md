@@ -43,11 +43,53 @@ See the example map below, which shows the state of the map at the beginning of 
 
 ![](./intro/initial_conditions.png)
 
+Using the hex numbering from the example image, you should mark the following features on the listed map locations:
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"><b>Hexes</b></th>
+    <th class="tg-0lax"><b>Feature</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">11, 95</td>
+    <td class="tg-0lax">Rebel Start</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">35, 95</td>
+    <td class="tg-0lax">Imperial Start</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">31, 51, 55, 75</td>
+    <td class="tg-0lax">Fabricator Outpost</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">33, 73</td>
+    <td class="tg-0lax">Secondary Refinery</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">53</td>
+    <td class="tg-0lax">Main Refinery</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">32, 62, 44, 74</td>
+    <td class="tg-0lax">Asteroid Field</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">65, 41</td>
+    <td class="tg-0lax">Energized Gas Cloud</td>
+  </tr>
+</tbody>
+</table>
+
+
 ***
 
 <br/>
 
-## Icons
+## Map Features
 
 ![](https://github.com/njablonski/ExeniaCampaign/blob/master/assets/icon-summary-3.png?raw=true)
 
@@ -89,14 +131,14 @@ Readiness represents the condition of equipment and personnel needed to operate 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax"><b>Effect on a Carrier</td>
+    <td class="tg-0lax"><b>Carrier</td>
     <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
     <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
     <td class="tg-0lax">May sortie 1 Starfighter Wing</b></td>
     <td class="tg-0lax">Carrier is destroyed</b></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><b>Effect on a Starfighter Wing</b></td>
+    <td class="tg-0lax"><b>Starfighter Wing</b></td>
     <td class="tg-0lax">May field up to 170 points in battle</b></td>
     <td class="tg-0lax">May field up to 150 points in battle</b></td>
     <td class="tg-0lax">May field up to 130 points in battle</b></td>
