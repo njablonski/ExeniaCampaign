@@ -138,7 +138,7 @@ Readiness represents the condition of equipment and personnel needed to operate 
     <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
     <td class="tg-0lax">May sortie 2 Starfighter Wings</b></td>
     <td class="tg-0lax">May sortie 1 Starfighter Wing</b></td>
-    <td class="tg-0lax">Carrier is destroyed</b></td>
+    <td class="tg-0lax">May not sortie any Starfighter Wings</b></td>
   </tr>
   <tr>
     <td class="tg-0lax"><b>Starfighter Wing</b></td>
@@ -361,12 +361,12 @@ The following rules apply to Starfighter Sortie:
 - A carrier at Reinforced or Ready readiness can sortie both of its Starfighter Wings.
 - A carrier at Weakened readiness can only sortie one Starfighter Wing.
 - No more than two allied Starfighter Wings may sortie to the same hex.
-- If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is underoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is destroyed.
+- If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is underoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is treated as being on the losing side of a battle and must retreat.
 - The Black Sun Starfighter Wings treat the Main Refinery in Hex 53 as their Carrier, and one of them (flip a coin to select) will return to defend it if it's attacked.
 
 ### 3. Battle Resolution
 
-In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
+In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Remember that in the [Exenia Battle Format](#exenia-battle-format), each player involved may spend 1 supply from their Carrier on _Ordnance_ and may also spend 1 supply from their Carrier on _Personnel_ to allow their Starfighters to take additional types of upgrades. Be sure to track these expenditures on your Carrier Status Sheet. Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
 
 The battles are considered to occur simultaneously. Players can schedule and complete games with their opponents asynchronously.
 
@@ -408,6 +408,45 @@ After the battle, all involved forces on the losing side go down one level of _R
 If a Black Sun Starfighter Wing loses a battle, it is destroyed and removed from the game.
 
 ### 4. Resource Collection
+
+After all battles are resolved, some hexes with Fabricator Outposts and Refineries will be occupied by victorious or unchallenged Carriers and Starfighter Wings. In this phase, players may collect resources from the hexes they control with Fabricator Outposts and Refineries. The resources collected from each type of facility are:
+
+<table>
+  <tr>
+    <td><b>Facility</b></td>
+    <td><b>Resource Collected</b></td>
+  </tr>
+  <tr>
+    <td>Fabricator Outpost</td>
+    <td>2 Supply</td>
+  </tr>
+  <tr>
+    <td>Secondary Refinery</td>
+    <td>2 Fuel</td>
+  </tr>
+  <tr>
+    <td>Main Refinery</td>
+    <td>4 Fuel</td>
+  </tr>
+</table>
+
+Mark down the collected resources on your Carrier Status Sheet.
+
+### 5. Strategic Preparations
+
+In this phase, all Starfighter Wings are returned to their Carriers.
+
+Then, any Carriers that did not participate directly in a battle during this strategic turn (meaning no battle occurred in their hex) may spend 1 supply on _Maintenance_ and increase their _Readiness_ 1 level. Similarly, any Starfighter Wings that did not sortie this strategic turn may spend 1 supply on _Maintenance_ and increase their _Readiness_ 1 level.
+
+***
+
+<br/>
+
+## Ending The Campaign
+
+The Exenia Campaign ends immediately if, at the end of a strategic turn, one side has a combined 20 Fuel.
+
+Otherwise, the Exenia Campaign ends at the end of the eighth strategic turn. Whichever side has more combined Fuel wins. In the event of a tie, play additional strategic turns until the tie is broken. The side with the most Fuel at the end of the last strategic turn wins.
 
 ***
 
