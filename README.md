@@ -4,7 +4,7 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 
 * [Overview](#overview)
 * [Map](#map)
-* [Icons](#icons)
+* [Map Features](#map-features)
 * [Key Concepts](#key-concepts)
    * [Fuel](#fuel)
    * [Supply](#supply)
@@ -15,6 +15,9 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
    * [Rebel Starfighter Wings](#rebel-starfighter-wings)
    * [Imperial Starfighter Wings](#imperial-starfighter-wings)
 * [Carrier Status Sheet](#carrier-status-sheet)
+* [The Strategic Turn](#the-strategic-turn)
+   * [1. Carrier Movement](#1-carrier-movement)
+   * [2. Starfighter Sortie](#2-starfighter-sortie)
 * [Exenia Battle Format](#exenia-battle-format)
 
 ***
