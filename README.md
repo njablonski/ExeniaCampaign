@@ -292,6 +292,78 @@ Throughout the game, players will need to track the status of their Carriers and
 
 <br/>
 
+## The Strategic Turn
+
+Each strategic turn is broken down into 5 phases.
+
+At the start of every turn, you should record the status of all Carriers and ensure all players have an up-to-date campaign map. The resources and readiness of all Carriers and Starfighter Wings is public knowledge, and should be available to all players.
+
+The Carrier Movement and Starfighter Sortie phases involve simultaneous action among all players, and should occur with all players present to strategize and observe events. The Battle Resolution, Resource Collection, and Strategic Preparations phases can then be handled asynchronously.
+
+### 1. Carrier Movement
+
+In this phase, each player records how his Carrier will move. The players should gather and plan their moves in coordination with their teammates. Each player should record where his Carrier will move to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves.
+
+The following rules apply to Carrier Movement:
+
+- Carriers can move a distance of 1 hex by default.
+- If your Carrier has available fuel, you can spend 1 fuel to allow your Carrier to move 2 hexes. You should mark this expenditure when recording your movement.
+- Two allied Carriers cannot occupy the same hex.
+
+### 2. Starfighter Sortie
+
+In this phase, players record how their Starfighter Wings will sortie. Each player should record where his Starfighter Wings will sortie to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves. After all players have moved their Starfighter Wings, roll two six-sided dice to determine where the Black Sun Starfighter Wings will patrol to.
+
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-0pky"><span style="font-weight:bold"><b>Dice Result</b></span></th>
+      <th class="tg-c3ow" colspan="2"><b>Hex Patrolled</b></th>
+    </tr>
+  <thead>
+  <tbody>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>1</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 51</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>2</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 73</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>3</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 75</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>4</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 55</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>5</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 33</td>
+    </tr>
+    <tr>
+      <td class="tg-0pky"><span style="font-weight:bold"><b>6</b></span></td>
+      <td class="tg-c3ow" colspan="2">Hex 31</td>
+    </tr>
+  </tbody>
+</table>
+
+The following rules apply to Starfighter Sortie:
+
+- Each Starfighter Wing can sortie up to 2 hexes away from its Carrier.
+- Starfighter Wings with a Grounded readiness may not sortie.
+- You may choose to have your Starfighter Wings remain in your Carrier to undergo _Maintenance_ instead of going on sortie.
+- A carrier at Reinforced or Ready readiness can sortie both of its Starfighter Wings.
+- A carrier at Weakened readiness can only sortie one Starfighter Wing.
+- No more than two allied Starfighter Wings may sortie to the same hex.
+- If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is underoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is destroyed.
+- The Black Sun Starfighter Wings treat the Main Refinery in Hex 53 as their Carrier, and one of them (flip a coin to select) will return to defend it if it's attacked.
+
+***
+
+<br/>
+
 ## Exenia Battle Format
 
 The Exenia campaign resolves battles through games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). Each game you play represents a battle that has been triggered by events in the current strategic turn, and the outcome of the game will determine the outcome of the battle.
