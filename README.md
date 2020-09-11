@@ -65,7 +65,7 @@ Using the hex numbering from the example image, you should mark the following fe
     <td class="tg-0lax">Rebel Start</b></td>
   </tr>
   <tr>
-    <td class="tg-0lax">35, 95</td>
+    <td class="tg-0lax">35, 71</td>
     <td class="tg-0lax">Imperial Start</b></td>
   </tr>
   <tr>
