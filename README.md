@@ -315,7 +315,8 @@ The following rules apply to Carrier Movement:
 
 ### 2. Starfighter Sortie
 
-In this phase, players record how their Starfighter Wings will sortie. Each player should record where his Starfighter Wings will sortie to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves. After all players have moved their Starfighter Wings, roll a six-sided dice for each Black Sun Starfighter Wing to determine where it will patrol to.
+In this phase, players record how their Starfighter Wings will sortie. Each player should record where his Starfighter Wings will sortie to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves. After all players have moved their Starfighter Wings, roll a six-sided dice for each Black Sun Starfighter Wing to determine where it will patrol to. If a Black Sun Starfighter Wing patrols to a hex where both Rebel and Imperial Starfighter Wings are present, re-roll.
+
 
 <table class="tg">
   <thead>
@@ -367,7 +368,46 @@ The following rules apply to Starfighter Sortie:
 
 In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
 
-The battles are considered to occur simultaneously, 
+The battles are considered to occur simultaneously. Players can schedule and complete games with their opponents asynchronously.
+
+If a player has a battle against a Black Sun Starfighter Wing, they should arrange for one of the opposing team's players to control the Black Sun for that battle. The Black Sun Starfighter wings always field [this list](https://squadbuilder.fantasyflightgames.com/squad-preview/5bc2bf87-48ee-4c7d-b82a-35bb79ab1c76):
+
+- **Z-95-AF4 Headhunter - Binayre Pirate**
+- **Z-95-AF4 Headhunter - Binayre Pirate**
+- **JumpMaster 5000 - Contracted Scout**
+  - Ion Cannon
+  - Contraband Cybernetics
+- **Z-95-AF4 Headhunter - Black Sun Soldier**
+  - Cluster Missiles
+- **Z-95-AF4 Headhunter - Black Sun Soldier**
+  - Cluster Missiles
+
+Record the location, involved forces, and outcome of the battle. See below for an example battle record.
+
+<table class="tg">
+  <tr>
+    <td class="tg-0lax"><b>Location</b></td>
+    <td class="tg-0lax">Hex 74</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>Rebel Forces</b></td>
+    <td class="tg-0lax">Danger Wing</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>Imperial Forces</b></td>
+    <td class="tg-0lax">Delta Wing<br>ISD Nemesis</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>Outcome</b></td>
+    <td class="tg-0lax">Imperial Victory</td>
+  </tr>
+</table>
+
+After the battle, all involved forces on the losing side go down one level of _Readiness_. Starfighter Wings on the losing side return to their Carriers, and Carriers on the losing side must retreat from the hex to an adjacent hex of their choosing. The hex a Carrier retreats to must not contain an enemy Carrier or Starfighter Wing. Victorious Carriers and Starfighter Wings remain in the hex where the battle was won to potentially collect resources in the next phase.
+
+If a Black Sun Starfighter Wing loses a battle, it is destroyed and removed from the game.
+
+### 4. Resource Collection
 
 ***
 
