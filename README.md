@@ -18,6 +18,10 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 * [The Strategic Turn](#the-strategic-turn)
    * [1. Carrier Movement](#1-carrier-movement)
    * [2. Starfighter Sortie](#2-starfighter-sortie)
+   * [3. Battle Resolution](#3-battle-resolution)
+   * [4. Resource Collection](#4-resource-collection)
+   * [5. Strategic Preparations](#5-strategic-preparations)
+* [Ending The Campaign](#ending-the-campaign)
 * [Exenia Battle Format](#exenia-battle-format)
 
 ***
