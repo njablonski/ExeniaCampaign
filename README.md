@@ -315,7 +315,7 @@ The following rules apply to Carrier Movement:
 
 ### 2. Starfighter Sortie
 
-In this phase, players record how their Starfighter Wings will sortie. Each player should record where his Starfighter Wings will sortie to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves. After all players have moved their Starfighter Wings, roll two six-sided dice to determine where the Black Sun Starfighter Wings will patrol to.
+In this phase, players record how their Starfighter Wings will sortie. Each player should record where his Starfighter Wings will sortie to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves. After all players have moved their Starfighter Wings, roll a six-sided dice for each Black Sun Starfighter Wing to determine where it will patrol to.
 
 <table class="tg">
   <thead>
@@ -363,6 +363,12 @@ The following rules apply to Starfighter Sortie:
 - If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is underoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is destroyed.
 - The Black Sun Starfighter Wings treat the Main Refinery in Hex 53 as their Carrier, and one of them (flip a coin to select) will return to defend it if it's attacked.
 
+### 3. Battle Resolution
+
+In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
+
+The battles are considered to occur simultaneously, 
+
 ***
 
 <br/>
@@ -371,18 +377,30 @@ The following rules apply to Starfighter Sortie:
 
 The Exenia campaign resolves battles through games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). Each game you play represents a battle that has been triggered by events in the current strategic turn, and the outcome of the game will determine the outcome of the battle.
 
-The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fresh, newbie-friendly way to experience the Star Wars universe through the X-Wing miniatures game. To this end, the Exenia Campaign uses a special restricted format for [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/). The rules of this format are as follows:
+The Exenia Campaign aims to tell a new, thematic Legends story, and to be a fresh, newbie-friendly way to experience the Star Wars universe through the X-Wing miniatures game. To this end, the Exenia Campaign uses a special restricted format for [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/).
+
+[Click here](https://squadbuilder.app.link/xNcyydtfH9) to view and use a [squad builder custom format](https://images-cdn.fantasyflightgames.com/filer_public/09/05/09053eb4-c910-42c8-83b7-02ca54253802/custom_squad_instructions_eng.pdf) for the Exenia Battle Format.
+
+The rules of this format are as follows:
 
 - Your list may only include ship types available to your Starfighter Wings involved in the strategic campaign battle that the game represents.
 - The points limit for your list is determined by the _Readiness_ of your Starfighter Wing. The limit is:
   - 170 points for a **Reinforced** wing.
   - 150 points for a **Ready** wing.
   - 130 points for a **Weakened** wing.
-- When two allied wings participate in the same battle, they may each bring a list of up to half the points limit determined by their _Readiness_, plus 10.
+- When two allied Starfighter Wings participate in the same battle, they may each bring a list of up to half the points limit determined by their _Readiness_, plus 10.
+  - 95 points for a **Reinforced** allied Starfighter Wing
+  - 85 points for a **Ready** allied Starfighter Wing
+  - 75 points for a **Weakened** allied Starfighter Wing
 - You may not take any unique named pilots or upgrades (cards with a • next to their name).
 - Taking upgrades may require spending strategic campaign resources.
   - You can always take Talent upgrades.
   - To take [Crew](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Crew_Upgrades), Gunner, [Astromech](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Astromech_Upgrades), or Modification upgrades requires than you spend 1 supply on _Personnel_ for the battle.
   - To take Missile, Torpedo, [Device](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Device_Upgrades), or Turret upgrades requires that you spend 1 supply on _Ordnance_ for the battle.
+- The obstacles used depend on terrain features of the hex where the battle takes place.
+  - For a hex with no special features, use 6 standard asteroid obstacles.
+  - For a hex with an Asteroid Field, use 9 standard asteroid obstacles.
+  - For a hex with an Energized Gas Cloud, use 3 standard asteroid obstacles and 3 gas cloud obstacles. When affected by one of these gas cloud obstacles, roll an attack dice. On a hit or critical hit, the affected ship gains one Ion Token.
+  - For each previous battle that took place in the hex during this campaign, add one debris cloud obstacle.
 
 These rules enhance the verisimilitude of the story as it unfolds in the strategic game, disincentivizes netdecking behavior, and levels the playing field for players who may not be familiar with the metagame of popular formats.
