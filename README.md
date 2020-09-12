@@ -48,7 +48,7 @@ The size of the map is 68 hexes, arranged in alternating rows of length 8 and 9.
 
 See the example map below, which shows the state of the map at the beginning of the campaign.
 
-![](./intro/initial_conditions.png)
+![](https://github.com/njablonski/ExeniaCampaign/blob/master/intro/initial_conditions.png?raw=true)
 
 Using the hex numbering from the example image, you should mark the following features on the listed map locations:
 
