@@ -32,7 +32,7 @@ The Exenia Campaign is strategic map campaign system for four players in [Star W
 
 [Watch the opening crawl!](https://njablonski.github.io/ExeniaCampaign/)
 
-In the Exenia Campaign, each player controls a Carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their Carriers, sortie their Starfighter Wings, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough fuel from Black Sun refineries to safely return to known space.
+In the Exenia Campaign, each player controls a Carrier starship with a large complement of classic Star Wars starfighters from the original trilogy and [Legends](https://starwars.fandom.com/wiki/Star_Wars_Legends) stories. The campaign plays out over a series of strategic turns, during which players will move their Carriers, sortie their Starfighter Wings, resolve battles with games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/), and attempt to collect enough Fuel from Black Sun refineries to safely return to known space.
 
 The campaign features two factions, the Rebel Alliance and the Galactic Empire, and players will each be part of a two-person team representing one of the factions.
 
@@ -110,21 +110,21 @@ The following terms and concepts are important to understand when playing the Ex
 
 ### Fuel
 
-The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive fuel from the Black Sun Refineries to return both of your team's carriers to the known galaxy. Fuel is collected by Carriers or Starfighter Wings that control Refineries during the _Resource Collection_ phase of a strategic turn.
+The objective of the Exenia Campaign is to collect enough Coaxium hyperdrive Fuel from the Black Sun Refineries to return both of your team's carriers to the known galaxy. Fuel is collected by Carriers or Starfighter Wings that control Refineries during the _Resource Collection_ phase of a strategic turn.
 
 Fuel can be spent during the _Carrier Movement_ phase of a strategic turn to increase your carrier's hyperdrive speed, which allows it to move an additional hex.
 
 ### Supply
 
-Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial supply lines, and must be judicious about their use of scarce supplies. Additional supplies can be gathered by Carriers or Starfighter Wings that control Fabricator Outposts during the _Resource Collection_ phase of a strategic turn.
+Supply represents various consumable resources. The forces in the Exenia Campaign are far away from typical Rebel or Imperial logistical support, and must be judicious about their use of scarce materials. Additional Supply can be gathered by Carriers or Starfighter Wings that control Fabricator Outposts during the _Resource Collection_ phase of a strategic turn.
 
-In the _Battle Resolution_ phase of a strategic turn, players can spend supply on _Ordnance_ and _Personnel_ to allow their starfighters to take additional upgrades.
+In the _Battle Resolution_ phase of a strategic turn, players can spend Supply on _Ordnance_ and _Personnel_ to allow their starfighters to take additional upgrades.
 
-In the _Strategic Preparations_ phase, Carriers that were not involved in battles and Starfighter Wings that did not Sortie can spend supply on _Maintenance_ to increase their _Readiness_.
+In the _Strategic Preparations_ phase, Carriers that were not involved in battles and Starfighter Wings that did not Sortie can spend Supply on _Maintenance_ to increase their Readiness.
 
 ### Readiness
 
-Readiness represents the condition of equipment and personnel needed to operate a Carrier or Starfighter Wing. There are four levels of readiness, each with its own affect on a Carrier or Starfighter Wing:
+Readiness represents the condition of equipment and personnel needed to operate a Carrier or Starfighter Wing. There are four levels of Readiness, each with its own effect on a Carrier or Starfighter Wing:
 
 <table class="tg">
 <thead>
@@ -154,9 +154,9 @@ Readiness represents the condition of equipment and personnel needed to operate 
 </tbody>
 </table>
 
-When the Galactic Empire or Rebel Alliance lose a battle, all of that team's involved Carriers and Starfighter Wings go down one level of _Readiness_.
+When the Galactic Empire or Rebel Alliance lose a battle, all of that team's involved Carriers and Starfighter Wings go down one level of Readiness.
 
-If a Starfighter Wing does not sortie, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level in the _Strategic Preparations_ phase. Similarly, in the _Strategic Preparations_ phase, if a Carrier was not involved in a battle during the current strategic turn, it can spend 1 supply on _Maintenance_ to increase its _Readiness_ one level.
+If a Starfighter Wing does not sortie, it can spend 1 Supply on _Maintenance_ to increase its Readiness one level in the _Strategic Preparations_ phase. Similarly, in the _Strategic Preparations_ phase, if a Carrier was not involved in a battle during the current strategic turn, it can spend 1 Supply on _Maintenance_ to increase its Readiness one level.
 
 
 ***
@@ -179,7 +179,7 @@ During setup, each player chooses which Carrier and Starfighter Wings he will co
 
 The players who control the _**Paradise**_ and the _**Pursuit**_ will form the Rebel team, and the players who control the _**Gauntlet**_ and the _**Nemesis**_ will form the Imperial team.
 
-Once Carriers have been chosen, each team should work together to assign Starfighter Wings to their Carriers. There are four Rebel Starfighter Wings and four Imperial Starfighter Wings. Each Carrier can host two Starfighter Wings. Once each team has assigned Starfighter Wings to their Carriers, you're ready to record your initial status and begin the first strategic turn.
+Once Carriers have been chosen, each team should work together to assign Starfighter Wings to their Carriers. There are four Rebel Starfighter Wings and four Imperial Starfighter Wings. Each Carrier can host two Starfighter Wings. Once each team has assigned Starfighter Wings to their Carriers, you're ready to record your initial status and begin the first strategic turn. Carriers begin with 1 Fuel and 1 Supply.
 
 ### Rebel Starfighter Wings
 
@@ -261,7 +261,7 @@ Once Carriers have been chosen, each team should work together to assign Starfig
 
 ## Carrier Status Sheet
 
-Throughout the game, players will need to track the status of their Carriers and Starfighter Wings. This status will change from one strategic turn to the next. To track the status of a Carrier, you need to record its location, readiness, fuel, supply, and the readiness of its Starfighter Wings. See the example Carrier status sheet below.
+Throughout the game, players will need to track the status of their Carriers and Starfighter Wings. This status will change from one strategic turn to the next. To track the status of a Carrier, you need to record its Location, Readiness, Fuel, Supply, and the Readiness of its Starfighter Wings. See the example Carrier status sheet below.
 
 <table class="tg">
   <tr>
@@ -303,18 +303,18 @@ Throughout the game, players will need to track the status of their Carriers and
 
 Each strategic turn is broken down into 5 phases.
 
-At the start of every turn, you should record the status of all Carriers and ensure all players have an up-to-date campaign map. The resources and readiness of all Carriers and Starfighter Wings is public knowledge, and should be available to all players.
+At the start of every turn, you should record the status of all Carriers and ensure all players have an up-to-date campaign map. The resources and Readiness of all Carriers and Starfighter Wings is public knowledge, and should be available to all players.
 
-The Carrier Movement and Starfighter Sortie phases involve simultaneous action among all players, and should occur with all players present to strategize and observe events. The Battle Resolution, Resource Collection, and Strategic Preparations phases can then be handled asynchronously.
+The _Carrier Movement_ and _Starfighter Sortie_ phases involve simultaneous action among all players, and should occur with all players present to strategize and observe events. The _Battle Resolution_, _Resource Collection_, and _Strategic Preparations_ phases can then be handled asynchronously.
 
 ### 1. Carrier Movement
 
 In this phase, each player records how his Carrier will move. The players should gather and plan their moves in coordination with their teammates. Each player should record where his Carrier will move to on a slip of paper or in a password-protected email attachment. Once all players have recorded their planned moves, they simultaneously reveal and execute their moves.
 
-The following rules apply to Carrier Movement:
+The following rules apply to _Carrier Movement_:
 
 - Carriers can move a distance of 1 hex by default.
-- If your Carrier has available fuel, you can spend 1 fuel to allow your Carrier to move 2 hexes. You should mark this expenditure when recording your movement.
+- If your Carrier has available fuel, you can spend 1 fuel to allow your Carrier to move 2 hexes instead of 1. You should mark this expenditure when recording your movement.
 - Two allied Carriers cannot occupy the same hex.
 
 ### 2. Starfighter Sortie
@@ -357,24 +357,25 @@ In this phase, players record how their Starfighter Wings will sortie. Each play
   </tbody>
 </table>
 
-The following rules apply to Starfighter Sortie:
+The following rules apply to _Starfighter Sortie_:
 
 - Each Starfighter Wing can sortie up to 2 hexes away from its Carrier.
-- Starfighter Wings with a Grounded readiness may not sortie.
+- Grounded Starfighter Wings may not sortie.
 - You may choose to have your Starfighter Wings remain in your Carrier to undergo _Maintenance_ instead of going on sortie.
-- A carrier at Reinforced or Ready readiness can sortie both of its Starfighter Wings.
-- A carrier at Weakened readiness can only sortie one Starfighter Wing.
+- A Reinforced or Ready Carrier can sortie both of its Starfighter Wings.
+- A Weakened readiness can only sortie one Starfighter Wing.
+- A Grounded Carrier may not sortie Starfighter Wings.
 - No more than two allied Starfighter Wings may sortie to the same hex.
-- If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is underoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is treated as being on the losing side of a battle and must retreat.
+- If enemy fighters sortie to your Carrier's hex, your Carrier is under attack! You _must_ recall at least 1 Starfighter Wing to defend your Carrier. The selected Starfighter Wing immediately is moved back to the same hex as your Carrier. Alternativey, you can defend your carrier by launching a Starfighter Wing that is undergoing _Maintenance_. If all of your Starfighter Wings are Grounded when your Carrier is attacked, your Carrier is treated as being on the losing side of a battle, is reduced one level of Readiness, and must retreat.
 - The Black Sun Starfighter Wings treat the Main Refinery in Hex 53 as their Carrier, and one of them (flip a coin to select) will return to defend it if it's attacked.
 
 ### 3. Battle Resolution
 
-In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Remember that in the [Exenia Battle Format](#exenia-battle-format), each player involved may spend 1 supply from their Carrier on _Ordnance_ and may also spend 1 supply from their Carrier on _Personnel_ to allow their Starfighters to take additional types of upgrades. Be sure to track these expenditures on your Carrier Status Sheet. Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
+In this phase, players involved in battles will play games of [Star Wars: X-Wing Second Edition](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) using the [Exenia Battle Format](#exenia-battle-format). Remember that in the [Exenia Battle Format](#exenia-battle-format), each player involved may spend 1 Supply from their Carrier on _Ordnance_ and may also spend 1 Supply from their Carrier on _Personnel_ to allow their Starfighters to take additional types of upgrades. Be sure to track these expenditures on your Carrier Status Sheet. Battles occur wherever two or more enemy Starfighter Wings occupy the same hex. This could be a hex that enemy Starfighter Wings have both sortied to, or it could be a Carrier attack with one team's Starfighter Wing attacking and the other side's Starfighter Wing defending.
 
-The battles are considered to occur simultaneously. Players can schedule and complete games with their opponents asynchronously.
+The battles are considered to occur simultaneously, but players can schedule and complete games with their opponents asynchronously.
 
-If a player has a battle against a Black Sun Starfighter Wing, they should arrange for one of the opposing team's players to control the Black Sun for that battle. The Black Sun Starfighter wings always field [this list](https://squadbuilder.fantasyflightgames.com/squad-preview/5bc2bf87-48ee-4c7d-b82a-35bb79ab1c76):
+If a player has a battle against a Black Sun Starfighter Wing, they should arrange for one of the opposing team's players to control the Black Sun for that battle. The Black Sun Starfighter Wings always field [this list](https://squadbuilder.fantasyflightgames.com/squad-preview/5bc2bf87-48ee-4c7d-b82a-35bb79ab1c76):
 
 - **Z-95-AF4 Headhunter - Binayre Pirate**
 - **Z-95-AF4 Headhunter - Binayre Pirate**
@@ -407,7 +408,7 @@ Record the location, involved forces, and outcome of the battle. See below for a
   </tr>
 </table>
 
-After the battle, all involved forces on the losing side go down one level of _Readiness_. Starfighter Wings on the losing side return to their Carriers, and Carriers on the losing side must retreat from the hex to an adjacent hex of their choosing. The hex a Carrier retreats to must not contain an enemy Carrier or Starfighter Wing. Victorious Carriers and Starfighter Wings remain in the hex where the battle was won to potentially collect resources in the next phase.
+After the battle, all involved forces on the losing side go down one level of Readiness. Starfighter Wings on the losing side return to their Carriers, and Carriers on the losing side must retreat from the hex to an adjacent hex of their choosing. The hex a Carrier retreats to must not contain an enemy Carrier or Starfighter Wing. Victorious Carriers and Starfighter Wings remain in the hex where the battle was won to potentially collect resources in the next phase.
 
 If a Black Sun Starfighter Wing loses a battle, it is destroyed and removed from the game.
 
@@ -440,7 +441,7 @@ Mark down the collected resources on your Carrier Status Sheet.
 
 In this phase, all Starfighter Wings are returned to their Carriers.
 
-Then, any Carriers that did not participate directly in a battle during this strategic turn (meaning no battle occurred in their hex) may spend 1 supply on _Maintenance_ and increase their _Readiness_ 1 level. Similarly, any Starfighter Wings that did not sortie this strategic turn may spend 1 supply on _Maintenance_ and increase their _Readiness_ 1 level.
+Then, any Carriers that did not participate directly in a battle during this strategic turn (meaning no battle occurred in their hex) may spend 1 Supply on _Maintenance_ and increase their Readiness 1 level. Similarly, any Starfighter Wings that did not sortie this strategic turn may spend 1 supply on _Maintenance_ and increase their Readiness 1 level.
 
 ***
 
@@ -448,9 +449,11 @@ Then, any Carriers that did not participate directly in a battle during this str
 
 ## Ending The Campaign
 
-The Exenia Campaign ends immediately if, at the end of a strategic turn, one side has a combined 20 Fuel.
+The Exenia Campaign ends immediately if, at the end of a strategic turn, one side has a combined 20 Fuel. Otherwise, the Exenia Campaign ends at the end of the eighth strategic turn.
 
-Otherwise, the Exenia Campaign ends at the end of the eighth strategic turn. Whichever side has more combined Fuel wins. In the event of a tie, play additional strategic turns until the tie is broken. The side with the most Fuel at the end of the last strategic turn wins.
+The side with more combined Fuel at the end of the last strategic turn wins.
+
+In the event of a tie, play additional strategic turns until the tie is broken. 
 
 ***
 
@@ -478,12 +481,12 @@ The rules of this format are as follows:
 - You may not take any unique named pilots or upgrades (cards with a • next to their name).
 - Taking upgrades may require spending strategic campaign resources.
   - You can always take Talent upgrades.
-  - To take [Crew](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Crew_Upgrades), Gunner, [Astromech](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Astromech_Upgrades), or Modification upgrades requires than you spend 1 supply on _Personnel_ for the battle.
-  - To take Missile, Torpedo, [Device](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Device_Upgrades), or Turret upgrades requires that you spend 1 supply on _Ordnance_ for the battle.
+  - To take [Crew](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Crew_Upgrades), Gunner, [Astromech](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Astromech_Upgrades), or Modification upgrades requires than you spend 1 Supply on _Personnel_ for the battle.
+  - To take Missile, Torpedo, [Device](https://xwing-miniatures-second-edition.fandom.com/wiki/Category:Device_Upgrades), or Turret upgrades requires that you spend 1 Supply on _Ordnance_ for the battle.
 - The obstacles used depend on terrain features of the hex where the battle takes place.
   - For a hex with no special features, use 6 standard asteroid obstacles.
   - For a hex with an Asteroid Field, use 9 standard asteroid obstacles.
   - For a hex with an Energized Gas Cloud, use 3 standard asteroid obstacles and 3 gas cloud obstacles. When affected by one of these gas cloud obstacles, roll an attack dice. On a hit or critical hit, the affected ship gains one Ion Token.
-  - For each previous battle that took place in the hex during this campaign, add one debris cloud obstacle.
+  - For each previous battle that took place in the hex during this campaign, add 1 debris cloud obstacle, up to a maximum of 3 extra debris cloud obstacles.
 
 These rules enhance the verisimilitude of the story as it unfolds in the strategic game, disincentivizes netdecking behavior, and levels the playing field for players who may not be familiar with the metagame of popular formats.
